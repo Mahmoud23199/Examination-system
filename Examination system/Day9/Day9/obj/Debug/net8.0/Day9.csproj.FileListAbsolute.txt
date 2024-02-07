@@ -1,0 +1,28 @@
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\bin\Debug\net8.0\Day9.exe
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\bin\Debug\net8.0\Day9.deps.json
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\bin\Debug\net8.0\Day9.runtimeconfig.json
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\bin\Debug\net8.0\Day9.dll
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\bin\Debug\net8.0\Day9.pdb
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\obj\Debug\net8.0\Day9.GeneratedMSBuildEditorConfig.editorconfig
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\obj\Debug\net8.0\Day9.AssemblyInfoInputs.cache
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\obj\Debug\net8.0\Day9.AssemblyInfo.cs
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\obj\Debug\net8.0\Day9.csproj.CoreCompileInputs.cache
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\obj\Debug\net8.0\Day9.dll
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\obj\Debug\net8.0\refint\Day9.dll
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\obj\Debug\net8.0\Day9.pdb
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\obj\Debug\net8.0\Day9.genruntimeconfig.cache
+D:\old E\ITI\Intake 44\ITP\PortSaid-.Net\OOP\Day9\Day9\Day9\obj\Debug\net8.0\ref\Day9.dll
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\bin\Debug\net8.0\Day9.exe
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\bin\Debug\net8.0\Day9.deps.json
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\bin\Debug\net8.0\Day9.runtimeconfig.json
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\bin\Debug\net8.0\Day9.dll
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\bin\Debug\net8.0\Day9.pdb
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\obj\Debug\net8.0\Day9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\obj\Debug\net8.0\Day9.AssemblyInfoInputs.cache
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\obj\Debug\net8.0\Day9.AssemblyInfo.cs
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\obj\Debug\net8.0\Day9.csproj.CoreCompileInputs.cache
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\obj\Debug\net8.0\Day9.dll
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\obj\Debug\net8.0\refint\Day9.dll
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\obj\Debug\net8.0\Day9.pdb
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\obj\Debug\net8.0\Day9.genruntimeconfig.cache
+E:\Courses\ITI_Portsaid\AssignmentOOP\09-Day9\09-Day9\Day9\Day9\Day9\obj\Debug\net8.0\ref\Day9.dll

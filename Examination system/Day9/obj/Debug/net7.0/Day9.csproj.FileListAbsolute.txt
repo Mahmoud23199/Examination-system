@@ -1,0 +1,14 @@
+E:\Courses\.Net\My Code\Day9\Day9\bin\Debug\net7.0\Day9.exe
+E:\Courses\.Net\My Code\Day9\Day9\bin\Debug\net7.0\Day9.deps.json
+E:\Courses\.Net\My Code\Day9\Day9\bin\Debug\net7.0\Day9.runtimeconfig.json
+E:\Courses\.Net\My Code\Day9\Day9\bin\Debug\net7.0\Day9.dll
+E:\Courses\.Net\My Code\Day9\Day9\bin\Debug\net7.0\Day9.pdb
+E:\Courses\.Net\My Code\Day9\Day9\obj\Debug\net7.0\Day9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\.Net\My Code\Day9\Day9\obj\Debug\net7.0\Day9.AssemblyInfoInputs.cache
+E:\Courses\.Net\My Code\Day9\Day9\obj\Debug\net7.0\Day9.AssemblyInfo.cs
+E:\Courses\.Net\My Code\Day9\Day9\obj\Debug\net7.0\Day9.csproj.CoreCompileInputs.cache
+E:\Courses\.Net\My Code\Day9\Day9\obj\Debug\net7.0\Day9.dll
+E:\Courses\.Net\My Code\Day9\Day9\obj\Debug\net7.0\refint\Day9.dll
+E:\Courses\.Net\My Code\Day9\Day9\obj\Debug\net7.0\Day9.pdb
+E:\Courses\.Net\My Code\Day9\Day9\obj\Debug\net7.0\Day9.genruntimeconfig.cache
+E:\Courses\.Net\My Code\Day9\Day9\obj\Debug\net7.0\ref\Day9.dll
